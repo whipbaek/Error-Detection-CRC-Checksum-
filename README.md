@@ -1,4 +1,4 @@
-# Error Detection Technique in Data Network(CRC,Checksum)
+# Error Detection Technique in Data Network (CRC,Checksum)
 
 [CRC(Cyclic Redundancy Check)](https://ko.wikipedia.org/wiki/%EC%88%9C%ED%99%98_%EC%A4%91%EB%B3%B5_%EA%B2%80%EC%82%AC) 와 
 [Checksum](https://ko.wikipedia.org/wiki/%EC%B2%B4%ED%81%AC%EC%84%AC )은 데이터통신에서 전송한 데이터에 오류가 있는지 없는지를 검출하는 기법입니다.
